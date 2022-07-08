@@ -41,6 +41,7 @@ a{
 
 .text-button1,.text-button2 ,.text-button3  {
   font-weight: 700;
+  border: none;
 }
 
 li{
@@ -303,6 +304,7 @@ font-weight: 1000;
 text-transform: uppercase;
 margin-top: 7rem;
 transform: translate(100px);
+border: none;
 border-radius: 50px;
 font-size: 2.5rem;
 }
@@ -590,7 +592,6 @@ align-items: center;
 .sect1{
   display: block;
   height: 125vh;
-  /* background-color: blue; */
   margin-bottom: 50px;
   box-shadow: 0 0 10px rgba(0,0,0,0.10);
    }
@@ -845,7 +846,6 @@ font-weight: 600;
 
 .oak-price{
 text-align: center;
-display: inline-block;
 background: orange;
 width: 150px;
 padding: 13px 0px;
@@ -853,6 +853,7 @@ border-radius: 50px;
 margin-left: 240px;
 color: black;
 font-weight: 600;
+border: none;
 }
 
 .oak-price:hover {
