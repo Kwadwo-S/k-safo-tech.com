@@ -418,7 +418,7 @@ min-height: 100vh;
 .header .hero-img {
   height: 450px;
   bottom: -25%;
-  right: -2%;
+  right: -6%;
 }
 
 .hero-content {
@@ -449,10 +449,10 @@ min-height: 100vh;
 
 .btn {
 margin-top: 3rem;
+transform: translate(10px);
 }
 
 .btn:hover {
-
 margin-top: 3rem;
 }
 }
