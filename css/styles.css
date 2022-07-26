@@ -418,7 +418,7 @@ min-height: 100vh;
 .header .hero-img {
   height: 450px;
   bottom: -25%;
-  right: -6%;
+  right: -3.5%;
 }
 
 .hero-content {
@@ -448,12 +448,14 @@ min-height: 100vh;
 }
 
 .btn {
-margin-top: 6rem;
-transform: translate(10px);
+margin-top: 3.5rem;
+transform: translate(35px);
 }
 
 .btn:hover {
-margin-top: 3rem;
+margin-top: 3.5rem;
+transform: translate(35px);
+
 }
 }
 
@@ -630,8 +632,9 @@ flex-direction: column;
 
 }
 .text-title {
+  justify-content: center;
   text-align: center;
-  margin: 10px auto 18px;
+  margin: 10px 0px 18px 15px;
   color: #444;
   font-size: 19px;
   }
